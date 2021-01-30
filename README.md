@@ -1,7 +1,8 @@
 # chatbot
 A chatbot is an intelligent piece of software that is capable of communicating and performing actions similar to a human. Chatbots are used a lot in customer interaction, marketing on social network sites and instantly messaging the client. There are two basic types of chatbot models based on how they are built; Retrieval based and Generative based models.
 In this Python project the chatbot will be trained on the dataset which contains categories (intents), pattern and responses.
-##Files
+
+## Files
 -> Intents.json – The data file which has predefined patterns and responses.
 -> train_chatbot.py – In this Python file, we wrote a script to build the model and train our chatbot.
 -> Words.pkl – This is a pickle file in which we store the words Python object that contains a list of our vocabulary.
